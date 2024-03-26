@@ -2,6 +2,6 @@
   "name": "Mangbes Operator",
   "website": "https://mangbes.com",
   "description": "The Open Operator",
-  "logo": "https://testnet-usea1-holesky-operator-metadata.s3.amazonaws.com/0x5f8c207382426d3f7f248e6321cf93b34e66d6b9/logo.png",
+  "logo": "https://raw.githubusercontent.com/mangbes/eigenlayer-operator/main/logo.png",
   "twitter": "https://x.com/mangbes_"
 }
